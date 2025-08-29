@@ -37,3 +37,8 @@ def log(x, base=10):
     if x <= 0:
         raise ValueError("Logarithm is not defined for non-positive numbers")
     return math.log(x, base)
+
+def sin(x):
+    import math
+    return math.sin(x)
+
