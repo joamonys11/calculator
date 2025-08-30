@@ -42,3 +42,8 @@ def sin(x):
     import math
     return math.sin(x)
 
+
+def cos(x):
+    import math
+    return math.cos(x)
+
