@@ -47,3 +47,9 @@ def cos(x):
     import math
     return math.cos(x)
 
+
+def tan(x):
+    import math
+    return math.tan(x)
+
+
